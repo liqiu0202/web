@@ -1,1 +1,1 @@
-# web
+# folder to store web applications
